@@ -2,5 +2,4 @@
 
 Guvi demo signup login page and mysql/db configuration.
 
-
-https://drive.google.com/file/d/1ZOKZHEnmmIw5uCzhRjh9BUmgPRd0ziCT/view?usp=drivesdk
+https://drive.google.com/drive/folders/1F1xG_DnJ5xh7meAjFMl8rQKlw59Qqa_C
